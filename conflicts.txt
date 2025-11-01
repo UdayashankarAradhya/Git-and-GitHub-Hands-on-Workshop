@@ -1,6 +1,1 @@
-feature 1: login page
-<<<<<<< HEAD
-new line added in local
-=======
-new line added in github
->>>>>>> 37f3c2c028941814296efe31de301eaf031463da
+
