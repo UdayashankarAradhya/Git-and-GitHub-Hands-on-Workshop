@@ -1,1 +1,1 @@
-feature 1: login page
+feature 1: posting page
